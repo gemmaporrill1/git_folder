@@ -1,1 +1,3 @@
 print("fun")
+
+print("cool")
